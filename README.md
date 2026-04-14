@@ -1,6 +1,3 @@
-Here’s your README in **pure Markdown code form** (ready to copy-paste into `README.md`) 👇
-
-```markdown
 # 🌞⚡ Solar & Wind Power Variation Analysis
 
 ## 📌 Overview
